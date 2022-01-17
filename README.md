@@ -1,1 +1,1 @@
-## Computational Genomics with R
+# Computational Genomics with R
